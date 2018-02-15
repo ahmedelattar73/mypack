@@ -25,4 +25,4 @@ class MypackServiceProvider extends ServiceProvider
     {
         //
     }
-}c
+}
