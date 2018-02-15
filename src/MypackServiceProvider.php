@@ -1,6 +1,6 @@
 <?php
 
-namespace ahmedelattar73\mypack;
+namespace Ahmedelattar73\Mypack;
 
 use Illuminate\Support\ServiceProvider;
 
