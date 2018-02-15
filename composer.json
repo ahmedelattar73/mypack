@@ -1,0 +1,28 @@
+{
+  "name": "ahmedelattar73/mypack",
+  "description": "My first pack",
+  "authors":[
+    { "name":"Ahmed Elattar",
+      "email": "ahmedelattar73@gmail.com"
+    }
+  ],
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.5.9",
+    "illuminate/support": ">=5.0,<5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "ahmedelattar73\\mypack\\": "src"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "ahmedelattar73\\mypack\\mypackServiceProvider"
+      ]
+    }
+  }
+
+}
