@@ -20,7 +20,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "ahmedelattar73\\mypack\\mypackServiceProvider"
+        "ahmedelattar73\\mypack\\MypackServiceProvider"
       ]
     }
   }

@@ -1,10 +1,10 @@
 <?php
 
-namespace ahmedelattar73/mypackServiceProvider
+namespace ahmedelattar73\mypack;
 
 use Illuminate\Support\ServiceProvider;
 
-class mypackServiceProvider extends ServiceProvider
+class MypackServiceProvider extends ServiceProvider
 {
     /**
      * Bootstrap the application services.
